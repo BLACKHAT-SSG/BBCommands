@@ -1,1 +1,2 @@
+cat subdomains-geotabinc.txt | nuclei -c 500 -silent -t /home/kali/Nuclei-Templates/nuclei-templates/cves/2021/ -o nuclei-output 
 
